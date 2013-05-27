@@ -1,3 +1,4 @@
 <?php 
-infophp();
+//infophp();
+var_dump($_server);
 ?>
